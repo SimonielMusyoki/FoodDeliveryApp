@@ -3,8 +3,8 @@ import { icons, images} from '../constants'
 export const initialCurrentLocation = {
     streetName: "Garden City Mall",
     gps: {
-        latitude: 1.5496614931250685,
-        longitude: 110.36381866919922
+        latitude: -1.232455,
+        longitude: 36.878324
     }
 }
 
@@ -77,8 +77,8 @@ export const restaurantData = [
         photo: images.burger_restaurant,
         duration: "30 - 45 min",
         location: {
-            latitude: 1.5347282806345879,
-            longitude: 110.35632207358996,
+            latitude: -1.219648,
+            longitude: 36.888314,
         },
         courier: {
             avatar: images.avatar_1,
@@ -120,8 +120,8 @@ export const restaurantData = [
         photo: images.pizza_restaurant,
         duration: "15 - 20 min",
         location: {
-            latitude: 1.556306570595712,
-            longitude: 110.35504616746915,
+            latitude: -1.213126,
+            longitude: 36.839998,
         },
         courier: {
             avatar: images.avatar_2,
@@ -171,8 +171,8 @@ export const restaurantData = [
         photo: images.hot_dog_restaurant,
         duration: "20 - 25 min",
         location: {
-            latitude: 1.5238753474714375,
-            longitude: 110.34261833833622,
+            latitude: -1.301789,
+            longitude: 36.825724,
         },
         courier: {
             avatar: images.avatar_3,
@@ -198,8 +198,8 @@ export const restaurantData = [
         photo: images.japanese_restaurant,
         duration: "10 - 15 min",
         location: {
-            latitude: 1.5578068150528928,
-            longitude: 110.35482523764315,
+            latitude: -1.316393,
+            longitude: 36.834484,
         },
         courier: {
             avatar: images.avatar_4,
@@ -225,8 +225,8 @@ export const restaurantData = [
         photo: images.noodle_shop,
         duration: "15 - 20 min",
         location: {
-            latitude: 1.558050496260768,
-            longitude: 110.34743759630511,
+            latitude: -1.312301,
+            longitude: 36.816861,
         },
         courier: {
             avatar: images.avatar_4,
@@ -278,8 +278,8 @@ export const restaurantData = [
         photo: images.kek_lapis_shop,
         duration: "35 - 40 min",
         location: {
-            latitude: 1.5573478487252896,
-            longitude: 110.35568783282145,
+            latitude: -1.343406,
+            longitude: 36.764942,
         },
         courier: {
             avatar: images.avatar_1,
