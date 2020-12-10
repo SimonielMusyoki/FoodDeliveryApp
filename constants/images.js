@@ -51,7 +51,7 @@ export default {
     nasi_briyani_mutton,
     nasi_lemak,
     noodle_shop,
-    pizza_restaurant,
+    pizza,
     pizza_restaurant,
     salad,
     sarawak_laksa,
