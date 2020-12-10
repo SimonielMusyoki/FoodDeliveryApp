@@ -12,7 +12,6 @@ import {
 import { isIphoneX } from 'react-native-iphone-x-helper';
 
 import { icons, COLORS, FONTS, SIZES } from '../constants';
-import { restaurantData } from '../data/restaurantData';
 
 const Restaurants = ({route, navigation}) => {
 
