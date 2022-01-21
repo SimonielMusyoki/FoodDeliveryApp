@@ -7,7 +7,7 @@
 - Restaurants Listing
 - Food Listing depending on category selected
 - Adding to cart
-- Auth
+- Authentication
 - Routing & Directions
 - [Pending] Order Tracking
 - [Pending] Admin Panel
